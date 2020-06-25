@@ -44,6 +44,12 @@ title{
     background: yellow;
     border: 2px solid red;
 }
+.music{
+    color: green;
+    background-color:yellow;
+    border: 2px solid red;
+}
+
 .my {
     margin: 10px;
     border-radius:5px;

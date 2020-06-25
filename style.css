@@ -39,6 +39,11 @@ title{
     background: yellow;
     border: 2px solid red;
 }
+.videos{
+     color: green;
+    background: yellow;
+    border: 2px solid red;
+}
 .my {
     margin: 10px;
     border-radius:5px;
@@ -90,8 +95,7 @@ title{
 }
 .img{
     margin-left: 1250px;
-    box-shadow: 8px 4px 3px black;
-    margin-bottom:100px;
+    box-shadow: 7px 7px 7px black;
 }
 #Email:hover{
     color:red;
@@ -112,4 +116,14 @@ title{
 }
 .me{
     margin: 10px;
+}
+.first{
+    margin-left: 3px;
+}
+.vidos:hover{
+    border: 10px solid red;
+}
+.logo:hover{
+    border: 10px solid grey;
+    box-shadow :7px 7px 7px black
 }

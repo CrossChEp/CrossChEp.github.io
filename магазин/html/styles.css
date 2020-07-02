@@ -1,0 +1,375 @@
+@font-face {
+font-family: "EchoRevival";
+src: url("19180.otf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
+@font-face {
+    font-family: "GamesDaymariusv2-Regular";
+    src: url("18903.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "DrPo GothicRu";
+    src: url("шрифт.otf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Nexa Script Heavy";
+    src: url("шрифт2.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Cramaten";
+    src: url("ещё один шрифт.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "WRESTLEMANIA";
+    src: url("телефон.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+.logo{
+    font-family: Nexa Script Heavy;
+   color:#5E3B9D;
+    text-decoration: none;
+    background-color: #E6E7E2 ;
+    padding: 0.1%;
+    margin-bottom: -23px;
+    margin-left: -4px;
+
+
+
+}
+.start{
+    font-family: Aesthetic, sans-serif ;
+    border: 0px solid black;
+    background-color: #131313;
+    color: white;
+    text-align: center;
+    padding: 1.2%;
+    text-decoration: none;
+    font-size: 110%;
+    margin-top: -5px;
+    margin-left: -4px;
+
+
+}
+.o:hover{
+    font-family: Aesthetic, sans-serif;
+    border: 0px solid white;
+    background-color: white;
+    color: deepskyblue;
+    text-align: center;
+    padding: 1.2%;
+    text-decoration: none;
+}
+.t:hover{
+    font-family: Aesthetic, sans-serif;
+    border: 0px solid white;
+    background-color: white;
+    color: deepskyblue;
+    text-align: center;
+    padding: 1.2%;
+    text-decoration: none;
+}
+.th:hover{
+    font-family: Aesthetic, sans-serif;
+    border: 0px solid white;
+    background-color: white;
+    color: deepskyblue;
+    text-align: center;
+    padding: 1.2%;
+    text-decoration: none;
+
+}
+.phone{
+    font-family:"Segoe UI Historic", sans-serif;
+    text-align: end;
+}
+.number{
+    font-family: "Franklin Gothic Heavy";
+    font-size: 150%;
+    color: red;
+}
+.logo_image{
+    width: 40%;
+    height: 40%;
+    margin-left: 30%;
+    margin-bottom:  1%;
+
+}
+.main{
+    background-color: lightgrey;
+}
+.start2{
+
+
+    font-family: Candara;
+    background-color:black;
+    color: white;
+    text-decoration: none;
+    padding: 1%;
+    font-size: 110%;
+    margin-top: -4px;
+    border: 0px solid black;
+    margin-bottom: 3%;
+
+
+}
+.first{
+    margin-left: 20%;
+}
+.second{
+    margin-left: 27%;
+}
+.first:hover{
+    background-color:white;
+    color: deepskyblue;
+    text-decoration: none;
+    padding: 1%;
+    font-size: 110%;
+    margin-top: -4px;
+    border: 0px solid black;
+}
+.second:hover{
+    background-color:white;
+    color: deepskyblue;
+    text-decoration: none;
+    padding: 1%;
+    font-size: 110%;
+    margin-top: -4px;
+    border: 0px solid black;
+
+
+
+
+}
+
+.one{
+    filter: alpha (Opacity=25);
+
+    opacity: 0.25;
+
+    -moz-transition: all 1s ease-in-out; /* эффект перехода для Firefox до версии 16.0 */
+
+    -webkit-transition: all 1s ease-in-out; /* эффект перехода для Chrome до версии 26.0, Safari, Android и iOS */
+
+    -o-transition: all 1s ease-in-out; /* эффект перехода для Opera до версии 12.10 */
+
+    transition: all 1s ease-in-out; /* эффект перехода для других браузеров */
+    width: 50%;
+    height:50%;
+
+
+}
+.one:hover{
+    filter: alpha (Opacity=100);
+
+    opacity: 1;
+    width: 580px;
+    height: 580px;
+}
+.two{
+filter: alpha (Opacity=25);
+
+    opacity: 0.25;
+
+    -moz-transition: all 1s ease-in-out; /* эффект перехода для Firefox до версии 16.0 */
+
+    -webkit-transition: all 1s ease-in-out; /* эффект перехода для Chrome до версии 26.0, Safari, Android и iOS */
+
+    -o-transition: all 1s ease-in-out; /* эффект перехода для Opera до версии 12.10 */
+
+    transition: all 1s ease-in-out; /* эффект перехода для других браузеров */
+
+}
+.two:hover{
+filter: alpha (Opacity=100);
+    opacity: 1;
+
+}
+.selling{
+    margin-left: 8%;
+
+}
+.cathegories{
+    text-align: center;
+}
+.text{
+    font-family: EchoRevival;
+    text-align: center;
+    font-size: 250%;
+
+}
+.links{
+font-family: EchoRevival;
+    font-size: 200%;
+    text-decoration: none;
+    color: black;
+
+    margin-right: 19%;
+}
+.links:hover{
+    font-size: 200%;
+    text-decoration: none;
+    color: red;
+}
+.images{
+    margin-left: 10%;
+}
+.jackets{
+    margin-left: -1%;
+
+
+}
+.dress{
+    margin-right: -1%;
+}
+.jackets1{
+ margin-left: -1%;
+    filter: alpha (Opacity=25);
+
+    opacity: 0.25;
+
+    -moz-transition: all 1s ease-in-out; /* эффект перехода для Firefox до версии 16.0 */
+
+    -webkit-transition: all 1s ease-in-out; /* эффект перехода для Chrome до версии 26.0, Safari, Android и iOS */
+
+    -o-transition: all 1s ease-in-out; /* эффект перехода для Opera до версии 12.10 */
+
+    transition: all 1s ease-in-out; /* эффект перехода для других браузеров */
+}
+.jackets1:hover{
+    filter: alpha (Opacity=100);
+    opacity: 1;
+}
+.blose1{
+    filter: alpha (Opacity=25);
+
+    opacity: 0.25;
+
+    -moz-transition: all 1s ease-in-out; /* эффект перехода для Firefox до версии 16.0 */
+
+    -webkit-transition: all 1s ease-in-out; /* эффект перехода для Chrome до версии 26.0, Safari, Android и iOS */
+
+    -o-transition: all 1s ease-in-out; /* эффект перехода для Opera до версии 12.10 */
+
+    transition: all 1s ease-in-out; /* эффект перехода для других браузеров */
+}
+.blose1:hover{
+    filter: alpha (Opacity=100);
+    opacity: 1;
+}
+.trousers1{
+    filter: alpha (Opacity=25);
+
+    opacity: 0.25;
+
+    -moz-transition: all 1s ease-in-out; /* эффект перехода для Firefox до версии 16.0 */
+
+    -webkit-transition: all 1s ease-in-out; /* эффект перехода для Chrome до версии 26.0, Safari, Android и iOS */
+
+    -o-transition: all 1s ease-in-out; /* эффект перехода для Opera до версии 12.10 */
+
+    transition: all 1s ease-in-out; /* эффект перехода для других браузеров */
+}
+.trousers1:hover{
+    filter: alpha (Opacity=100);
+    opacity: 1;
+}
+.dress1{
+    filter: alpha (Opacity=25);
+
+    opacity: 0.25;
+
+    -moz-transition: all 1s ease-in-out; /* эффект перехода для Firefox до версии 16.0 */
+
+    -webkit-transition: all 1s ease-in-out; /* эффект перехода для Chrome до версии 26.0, Safari, Android и iOS */
+
+    -o-transition: all 1s ease-in-out; /* эффект перехода для Opera до версии 12.10 */
+
+    transition: all 1s ease-in-out; /* эффект перехода для других браузеров */
+}
+.dress1:hover{
+    filter: alpha (Opacity=100);
+    opacity: 1;
+}
+.texts{
+    font-family:"GamesDaymariusv2-Regular";
+    margin-top:5%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-size: 250%;
+}
+.image{
+    margin-left: 2%;
+}
+.names{
+    font-family:"GamesDaymariusv2-Regular";
+    margin-left: 40%;
+    margin-bottom: 20%;
+    display:inline;
+
+}
+.logo2{
+font-family: Nexa Script Heavy;
+    font-size: 200%;
+    color: #5E3B9D;
+    margin-top: 8%;
+    margin-bottom:8%;
+    margin-left:23%;
+}
+.us{
+    font-size: 150%;
+    color:white;
+}
+.about{
+    background-color: #191919;
+    color: white;
+}
+.Namus{
+font-family: Cramaten;
+ font-size: 200%;
+    margin-top: 3%;
+    text-align: center;
+
+}
+.discription{
+    font-family: Arial;
+    font-size: 130%;
+    margin-top:2%;
+    text-align: center;
+
+}
+.Contacts{
+    font-family: Cramaten;
+ font-size: 200%;
+    margin-top: 3%;
+    text-align: center;
+}
+.data{
+    font-family: Arial;
+    font-size: 130%;
+    margin-top:2%;
+    text-align: center;
+}
+.instruction{
+       font-family: Cramaten;
+ font-size: 200%;
+    margin-top: 3%;
+    text-align: center;
+}
+.steps{
+  font-family: Arial;
+    font-size: 130%;
+    margin-top:2%;
+    text-align: center;
+}
+
